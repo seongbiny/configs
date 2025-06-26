@@ -1,0 +1,21 @@
+{
+  "name": "@edenyun/prettier-config",
+  "version": "1.0.2",
+  "type": "module",
+  "private": false,
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "prettier": "^3.5.3"
+  },
+  "devDependencies": {
+    "@types/prettier": "^3.0.0"
+  }
+}
