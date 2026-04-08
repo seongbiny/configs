@@ -1,4 +1,4 @@
-import { Linter } from "eslint";
+import { Linter } from 'eslint';
 
-declare const eslintConfig: Linter.Config;
-export default eslintConfig;
+export declare const baseConfig: Linter.Config[];
+export default baseConfig;
